@@ -1,0 +1,3 @@
+Chitato | 5000 | 18
+Sponge | 6000 | 32
+Twister | 4500 | 30

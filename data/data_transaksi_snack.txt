@@ -1,0 +1,4 @@
+1 | Chitato | 2 | 10000 | Kasir
+1 | Chitato | 2 | 10000 | Kasir
+3 | Sponge | 2 | 12000 | Kasir
+4 | Sponge | 3 | 18000 | Member

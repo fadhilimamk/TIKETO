@@ -1,0 +1,6 @@
+Kungfu Panda 3 | 19.00 | 19 | 4 | 2016 | 9
+Kungfu kid | 21.30 | 14 | 4 | 2016 | 7
+Kungfu Panda 2 | 19.00 | 19 | 4 | 2016 | 9
+Kungfu kid 3 | 21.30 | 14 | 4 | 2016 | 7
+Kungfu Panda 1 | 19.00 | 24 | 4 | 2016 | 7
+Kungfu kid 2 | 21.30 | 24 | 4 | 2016 | 7
